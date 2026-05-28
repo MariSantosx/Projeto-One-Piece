@@ -1,0 +1,1 @@
+Projeto desenvolvido como conclusão dos estudos em CSS, unindo HTML, CSS, JavaScript e ferramentas de IA para criar uma experiência inspirada na interface da Netflix com tema de One Piece. O foco do projeto foi desenvolver uma interface moderna, responsiva e imersiva
